@@ -1,0 +1,61 @@
+{
+  "pexels": [
+    {
+      "slug": "t01",
+      "source": "pexels",
+      "id": 7752820,
+      "photographer": "Apunto Group Agencia de publicidad"
+    },
+    {
+      "slug": "t02",
+      "source": "pexels",
+      "id": 37063959,
+      "photographer": "IS0 shot"
+    },
+    {
+      "slug": "t03",
+      "source": "pexels",
+      "id": 27972376,
+      "photographer": "Guillermo Berlin"
+    },
+    {
+      "slug": "t04",
+      "source": "pexels",
+      "id": 7515080,
+      "photographer": "Asm Arif"
+    },
+    {
+      "slug": "t05",
+      "source": "pexels",
+      "id": 3156341,
+      "photographer": "Jeff Denlea"
+    }
+  ],
+  "fal_ai": [
+    {
+      "slug": "t06",
+      "source": "fal.ai",
+      "model": "flux-2-pro"
+    },
+    {
+      "slug": "t07",
+      "source": "fal.ai",
+      "model": "flux-2-pro"
+    },
+    {
+      "slug": "t08",
+      "source": "fal.ai",
+      "model": "flux-2-pro"
+    },
+    {
+      "slug": "t09",
+      "source": "fal.ai",
+      "model": "flux-2-pro"
+    },
+    {
+      "slug": "t10",
+      "source": "fal.ai",
+      "model": "flux-2-pro"
+    }
+  ]
+}
